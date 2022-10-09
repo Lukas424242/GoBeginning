@@ -5,7 +5,7 @@ func main() {
 	var u int64 = 50600099
 	var intArray = make([]int, u+1)
 	fmt.Println(len(intArray))
-	//var j int64 =5
+	var j int64 =5
 
 
 	// Schleife, von 2 bis kleiner zahl b
